@@ -18,3 +18,6 @@ HOW TO RUN:
 3.) You will be prompted for the pathname for a .gti file.  The .gti file extension was created to denote the instructions for how to run the dataPlot.py script for the appropriate data files.
 
 After providing the .gti pathname, the program will run and produce a folder containing the plots, graphs, and CSV files that were generated.
+
+
+NOTE: Sample input files (dielist.csv, Init_2033.gti, and SJ_EG2001_wafer_probe_data/*) and output files (Init_2033_plts/*) have been provided here for demonstration.
